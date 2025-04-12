@@ -12,7 +12,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
 
 # ====== Gemini & Vector Store Setup ======
-genai.configure(api_key="AIzaSyCxjaXRhwGJIWK0wWExjMRo6Mn-dSGFr4k")
+genai.configure(api_key="add key here")
 embedding_model = HuggingFaceEmbeddings(model_name="pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb")
 
 # ====== Functions ======
