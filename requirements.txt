@@ -1,0 +1,5 @@
+streamlit
+google-cloud-aiplatform
+pdfplumber
+google-generativeai
+Pillow
